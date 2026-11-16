@@ -1,6 +1,10 @@
 # LANTERNFALL — Keep the Last Light
 
-An original top-down arena survival game for make.fun's best-game-01 bounty.
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/chongphoshun/makefun-best-game-01/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/chongphoshun/makefun-best-game-01/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
+An original top-down arena survival game for [make.fun's best-game-01 bounty](https://make.fun/bounty/best-game-01).
 You are Wren, the last lantern-keeper of a dusk garden. Burn the shadows with
 ember shots, rescue drifting fireflies, take a lantern upgrade after every
 wave, and survive 10 waves — past the Gloam Brute at wave 5 — to face the
